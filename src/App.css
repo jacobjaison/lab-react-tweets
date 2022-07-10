@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.tweetMessage {
+  width: 850px;
+  align-items: center;
+  padding-left: 230px;
+}
